@@ -14,13 +14,6 @@ re    random    tarfile  numpy   torch    sklearn  matplotlib
 
 `python  net.py`
 
-若需替换LSTM,GRU(已在model.py中定义好)需在以下代码中更换
-
-![1672717207489](C:\Users\123\AppData\Roaming\Typora\typora-user-images\1672717207489.png)
-
-更改LSTM还需要在以下代码中更改最后一个隐藏层的输出shape
-
-![1672717326417](C:\Users\123\AppData\Roaming\Typora\typora-user-images\1672717326417.png)
 
 ## 实验结果
 
